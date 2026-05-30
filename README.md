@@ -18,7 +18,7 @@ Instructions on how to join the Andromeda Minecraft Server and install all requi
 
 ### Step 1 — Download and Install Fabric
 
-Download the Fabric Installer from: https://fabricmc.net/use/installer/
+Download the Fabric Installer from: <a href="https://fabricmc.net/use/installer/" target="_blank">https://fabricmc.net/use/installer/</a>
 
 <img src="/img/Fabric%20Installer%20Download.webp" width="700" alt="Fabric website showing the Download for Windows button">
 
@@ -46,7 +46,7 @@ You should see a **`mods`** folder inside. If it does not exist, create a new fo
 
 ### Step 4 — Download and Install the Mods Pack
 
-[> Download Mods Pack here](https://github.com/Nattaphong-jul/Andromeda-Minecraft-Server/releases/tag/1.7.9)
+<a href="https://github.com/Nattaphong-jul/Andromeda-Minecraft-Server/releases/tag/1.7.9" target="_blank">&gt; Download Mods Pack here</a>
 
 <img src="/img/Release%20mods%20pack.webp" width="700" alt="GitHub release page showing the Andromeda.Mods.zip download">
 
@@ -76,7 +76,7 @@ Shaders are not required but significantly improve the visual experience.
 
 ### Step 1 — Download the Shader Pack
 
-[> Download Shader Pack here](https://github.com/Nattaphong-jul/Andromeda-Minecraft-Server/releases/tag/1.7.9)
+<a href="https://github.com/Nattaphong-jul/Andromeda-Minecraft-Server/releases/tag/1.7.9" target="_blank">&gt; Download Shader Pack here</a>
 
 <img src="/img/Shader%20Pack%20Download.webp" width="700" alt="GitHub release page showing the shader pack ZIP download">
 
